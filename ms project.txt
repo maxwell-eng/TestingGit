@@ -2,3 +2,5 @@
 Python tutorial video
 
 ended on 00:08:50 hours
+
+I`ve made some changes
